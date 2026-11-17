@@ -1,0 +1,6 @@
+{
+  "Name": "Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Load Data from Excel to Orchestrator to Queue",
+  "MainFile": "Main .xaml"
+}

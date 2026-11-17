@@ -1,0 +1,7 @@
+# UiPath Studio local cache
+.local/
+**/.local/
+# Office temp/lock files
+~$*
+*.tmp
+Thumbs.db

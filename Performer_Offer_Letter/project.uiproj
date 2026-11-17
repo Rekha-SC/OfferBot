@@ -1,0 +1,6 @@
+{
+  "Name": "Performer_Offer_Letter",
+  "ProjectType": "Process",
+  "Description": "2025 Performer Process to Generate Offer Letter",
+  "MainFile": "Main.xaml"
+}
